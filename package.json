@@ -1,0 +1,17 @@
+{
+  "name": "flutter_layout",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "main.dart",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "prestart": "flutter emulators --launch Device_API_29",
+    "start": "flutter run"
+  },
+  "keywords": ["flutter", "App", "Mobile", "Dev"],
+  "author": "Silvio Antonio de Oliveira Junior",
+  "license": "ISC"
+}
